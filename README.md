@@ -12,6 +12,7 @@ node index.js
 ## use
 写了一个经常用到的使用案例  
 webpack动态入口的配置  
+配置内容写在了webpack.config.js  
 
 装包运行：
 ```
